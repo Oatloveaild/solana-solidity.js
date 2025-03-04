@@ -17,7 +17,7 @@ contract Creator {
     }
 }
 
-@program_id("92AaiNTBJmM583bhjaF7g67XEHiKbPZiZY9DoUrjX6cj")
+@program_id("BMuTR8zNaKFkVd7sH3BBjFxbAR3Uw2aVb5EM69n8pump")
 contract Child {
     uint8 value;
 
